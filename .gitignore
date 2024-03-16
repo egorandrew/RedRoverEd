@@ -1,0 +1,4 @@
+.idea/*
+venvLocal/*
+pytest.ini
+__pycache__
